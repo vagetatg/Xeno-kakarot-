@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━
 <p align="left">
     
-🇮🇳 Radhe Radhe
+🇮🇳 jai hind jay bharat
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-    ─「 𝗩𝗜𝗣 𝗠𝗨𝗦𝗜𝗖 」─
+    ─「 GOKU MUSIC 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -19,7 +19,7 @@
     <img src="https://envs.sh/06o.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/TG_VC_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [GOKU MUSIC](https://t.me/Baby_dark_music_rebot)**
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
 
@@ -41,8 +41,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
 <p align="center">
-    <a href="https://telegram.me/THE_VIP_BOY">
-        <img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐕𝐈𝐏 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram">
+    <a href="https://telegram.me/Xeno_Kakarot">
+        <img src="https://img.shields.io/badge/-☆𝐃𝐌 TO GOKU%20☆-blue.svg?style=for-the-badge&logo=Telegram">
     </a>
 </p>
 
@@ -53,7 +53,7 @@
 ### 🖇 VPS Deployment
 - Clone repo: `git clone https://github.com/THE-VIP-BOY-OP/VIP-MUSIC && cd VIP-MUSIC`
 - Setup by: `bash setup`
-- Fill [Extra Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
+- Fill [Extra Variables](https://github.com/Gokukhan1/Xeno-kakarot-/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
 - Install tmux: `sudo apt install tmux && tmux`
 - Run the bot: `bash start`
 - To exit tmux session: Press `Ctrl+b` and then `d`
@@ -61,9 +61,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
-<a href="https://t.me/THE_VIP_BOY_OP">
+<a href="https://t.me/Xeno_Kakarot">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
-<a href="https://instagram.com/the.vip.boy">
+<a href="https://instagram.com/saqib._.malik._.4f">
     <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
