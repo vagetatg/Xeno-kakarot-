@@ -1,5 +1,4 @@
-# Made by @hasnainkk-07
-# <================================ START ====≠========================>
+# Made by team planet sadala
 
 from VIPMUSIC.utils.mongo import db
 PROCESS = [
