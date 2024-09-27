@@ -1,4 +1,4 @@
-# Made by @hasnainkk-07
+# Made by Team Sadala
 # <================================ START ====≠========================>
 
 from VIPMUSIC.utils.mongo import db
