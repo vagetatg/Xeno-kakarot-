@@ -1,4 +1,4 @@
-# Made by @hasnainkk-07
+# Made by Team Salada
 # ================= START ===============
 
 def get_readable_time(seconds: int) -> str:
