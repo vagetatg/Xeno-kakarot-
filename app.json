@@ -16,17 +16,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21899392",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "1784e0b77aa020165687f59f573ac783",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token Get it from @Botfather",
-        "value": "",
+        "value": "7051351996:AAG_pRvNWg6os8LXsonZLylhSxbtDC7QNRY",
         "required": true
       },
       "EXTRA_PLUGINS": {
@@ -36,17 +36,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from `https://cloud.mongodb.com` . You can leave it blank if you want , bot will use VIP's database for you.",
-        "value": "",
+        "value": "mongodb+srv://userbot:userbot@cluster0.iweqz.mongodb.net/test?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "7283182219",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQFOKIAAlB0jKGik2IZmvksgSSwYt6BuK3R5eXYyTbZ0L0Kys09vGCu2sFLNkyMmTs-Vwl7sSHy6y1WfPXuqTkZjPwi18sbyN_zE7b4Fs9nwh4Ajsn-p1G-boXjmdh4dmnms60z4gvj0QADY4Bb5Skh5EITXxJR__eKZwKtZHVwmeWnRmvjaP1165wqaZK2qCnQAqQ2QFqvAg9ucNAIPi1L47_2PKYPg4WXujbHyB-WbloPGdZ2VQmV7J9hvX4CGvydWSXZ2SGRvb0_hyQ7Jg8PdLO8_z9LXuDnDCCOb4qTnbCCR5NPc30yQOOD4af7iTepF9KLTqkTVy4Rpetn7FsJSzc4EngAAAAG62_5DAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -61,7 +61,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1002325464125",
         "required": true
       },
       "UPSTREAM_REPO": {
