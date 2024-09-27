@@ -52,7 +52,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/Gokukhan1/Xeno-kakarot-Extra",
+    "https://github.com/vagetatg/Xeno-kakarot-Extra",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
