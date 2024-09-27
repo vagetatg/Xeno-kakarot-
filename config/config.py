@@ -95,7 +95,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Gokukhan1/Xeno-kakarot-",
+    "https://github.com/vagetatg/Xeno-kakarot-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -211,57 +211,57 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://telegra.ph/file/039af07c725ba814a6d48.jpg",
+    "https://envs.sh/Sj7.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/p2zzab.jpg",
+    "https://envs.sh/SjJ.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://files.catbox.moe/5ls954.jpg",
+    "https://envs.sh/Sjo.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://files.catbox.moe/5l1vtn.jpg",
+    "https://envs.sh/SjJ.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://files.catbox.moe/5ls954.jpg",
+    "https://envs.sh/Sjo.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://envs.sh/qNO.jpg",
+    "https://envs.sh/SjJ.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://files.catbox.moe/p2zzab.jpg",
+    "https://envs.sh/Sjo.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://envs.sh/qNO.jpg",
+    "https://envs.sh/SjJ.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://files.catbox.moe/p2zzab.jpg",
+    "https://envs.sh/Sjo.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://files.catbox.moe/5ls954.jpg",
+    "https://envs.sh/SjJ.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://files.catbox.moe/5l1vtn.jpg",
+    "https://envs.sh/Sjo.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
